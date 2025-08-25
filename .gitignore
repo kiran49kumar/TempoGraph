@@ -1,0 +1,44 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+tempograph/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data (keep large/raw datasets out of git)
+data/raw/
+data/processed/
+
+# Logs & outputs
+*.log
+logs/
+outputs/
+checkpoints/
+*.ckpt
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
